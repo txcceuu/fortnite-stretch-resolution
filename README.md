@@ -1,0 +1,1 @@
+# fortnite-stretch-resolution
