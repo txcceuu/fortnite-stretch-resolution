@@ -32,5 +32,5 @@ Future Fortnite updates might change the format or location of this file, which 
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/a/FDj7ajO)
+![App Screenshot](https://imgur.com/UELMcxx)
 
